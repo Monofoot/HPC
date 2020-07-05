@@ -1,2 +1,2 @@
-# HPC
-Coursework for CMT-106
+# HPC Parallel Computing, Gaussian Blur
+Demonstration of OMP for parallel computing of a Gaussian blur.
